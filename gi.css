@@ -1,1 +1,28 @@
+body{
+background-image:url('https://png.pngtree.com/thumb_back/fw800/back_pic/04/00/52/4057fde2257114c.jpg');
+background-position: center;
+background-size: cover;
+}
+
+div{
+	opacity:0.955;
+}
+
+.panel-heading{
+	text-align:center;
+	margin:0 auto;
+}
+
+#EYE:hover{
+	cursor: pointer;
+}
+
+#EYE2:hover{
+	cursor: pointer;
+}
+
+input {
+    background-position: right;
+}
+
 
