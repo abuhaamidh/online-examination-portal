@@ -1,0 +1,12 @@
+#select:hover{
+	cursor: pointer;
+}
+
+#ed{
+	color:blue;
+}
+
+#ed:hover{
+	text-decoration: underline;
+	cursor:pointer;
+}
